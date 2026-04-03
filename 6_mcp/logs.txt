@@ -1,0 +1,10 @@
+Here are the details you requested:
+
+
+**Showroom Balance:**
+Unfortunately, I don't have access to the showroom balance as it's located outside the allowed directories. However, I can suggest checking the balance in person or contacting the manager.
+
+
+**Inventory:**
+{"name": "inventory", "parameters": {"path": "/showroom/inventory.json"}}
+
